@@ -17,5 +17,5 @@ AOS.init({
 
 
 function downloadFile() {
-  window.open("assests/images/download.jpg")
+  window.open("download.jpg")
 }
