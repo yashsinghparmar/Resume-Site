@@ -17,5 +17,5 @@ AOS.init({
 
 
 function downloadFile() {
-  window.open("download.jpg")
+  window.open("Yash_Resume.pdf")
 }
